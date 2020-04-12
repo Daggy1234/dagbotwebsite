@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Page</title>
+    <link href="https://modesta.alexflipnote.dev/css/modesta.css" type="text/css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+</head>
+<body>
+    <header>
+      <nav>
+      <ul>
+        <li class="logo"><a href="index.html">GAY</a></li>
+        <li><h1 ><strong>DAGBOT       |</strong></h1><li>
+        <li><small class="light-text"><a href="index.html">Home</a></small></li>
+        <li><small class="light-text">Commands</small></li>
+        <li><small class="light-text">Donate</small></li>
+        <li><small class="light-text"><a href="https://discord.gg/5Y2ryNq">Server</a></small></li>
+        <li><small class="light-text"><a href="https://discordapp.com/api/oauth2/authorize?client_id=675589737372975124&permissions=1611000896&scope=bot">Invite</a></small></li>
+      </ul>
+    </nav>
+    </header>
+    <div class="container">
+      <h2 class="slogan">The Number 1 Discord Meme Bot with no Boring Moderation stuff</h2>
+      <div class="demobox">
+          <p class="intro"><em>
+          Dagbot is a revolutionary Discord bot with a plethora of wonderful features that will make adding him to your server.
+          Dagbot is flexible with <a href=""></a>dvanced control over what's going on.
+          With <strong>No administrative features</strong> and only fun commands, Dagbot will make your depressing life less dreadry.
+          With over 100+ commands you are sure to be entertained for life! Dagbot not only helps you laugh at memes, but also helps you create them!<p>
+      </div>
+        <div class="demobox">
+              <h5>Gaming </h5>
+              <div class="flex-grid">
+                  <div class="col-xs-5">
+                    <p class="descrip">From Fun Filled trivia and jeopardy to games like hangman and rock paper Scissors, Dagbot has it all. With Fighting games and Tic-Tac Toe in the works it it sure to be fun!</p>
+                  </div>
+                  <div class="col-xs-7">
+                    <div class="gamebox">INSERT GAME FEATURE HERE</div>
+                  </div>
+                </div>
+      </div>
+
+    <div class="demobox">
+
+      <div class="flex-grid">
+        <div class="col-xs-7">
+            <div class="imagebox">INSERT GAME FEATURE HERE</div>
+          </div>
+          <div class="col-xs-5">
+            <h5 class="leftaligned">Images</h5>
+            <p class="descrip">Fun and crazy Image based commands that let you create high quality photos to share , without the complex world of photoshop. A lot of these commands also let you create memes to enjoy!</p>
+          </div>
+        </div>
+
+      </div>
+      <div class="demobox">
+            <h5>Utilities</h5>
+            <div class="flex-grid">
+                <div class="col-xs-5">
+                  <p class="descrip">Utilities that can help assist you and help make your life easier. From searching google and You Tube and get weather live. Tags can even help you store data.</p>
+                </div>
+                <div class="col-xs-7">
+                  <div class="utilbox">INSERT GAME FEATURE HERE</div>
+                </div>
+              </div>
+    </div>
+    <div class="demobox">
+
+      <div class="flex-grid">
+        <div class="col-xs-7">
+            <div class="smartbox">INSERT GAME FEATURE HERE</div>
+          </div>
+          <div class="col-xs-5">
+            <h5 class="leftaligned">Smart Geeky Commands</h5>
+            <p class="descrip">Inleash your inner geek with commands from Pop culture phenomenons. From Harry Potter to Text Translation to an array of math based commands your geeky side will have plenty to choose from.</p>
+          </div>
+        </div>
+
+      </div>
+    <div class="demobox">
+          <h5>Reddit Stuff</h5>
+          <div class="flex-grid">
+              <div class="col-xs-5">
+                <p class="descrip">Reddit the front page of the internet, and dagbot makes accesing it easier for you. From a wide array of preset Subreddits to new ones being added, it truly is easy.</p>
+              </div>
+              <div class="col-xs-7">
+                <div class="redditbox">INSERT GAME FEATURE HERE</div>
+              </div>
+            </div>
+    </div>
+  </div>
+  </section>
+    <footer>Developed by Daggy1234</footer>
+  </body>
+</html>
