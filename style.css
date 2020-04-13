@@ -14,9 +14,11 @@ span.bot-name{
 }
 div.longdescription{
   background-color: rgb(114,137,218);
+  background: rgb(114,137,218);
 }
 div.content{
   background-color: rgb(114,137,218);
+  background: rgb(114,137,218);
 }
 p.bot-description{
   color: white;
