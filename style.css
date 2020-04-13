@@ -12,6 +12,11 @@ span.bot-name{
   font-family: Helvetica;
 
 }
+h5.sechead{
+  color: rgb(114,137,218);
+  font-style: italic;
+  font-family: Helvetica;
+}
 div.longdescription{
   background-color: rgb(114,137,218);
   background: rgb(114,137,218);
