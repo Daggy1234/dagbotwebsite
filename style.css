@@ -15,6 +15,9 @@ span.bot-name{
 div.longdescription{
   background-color: rgb(114,137,218);
 }
+div.content{
+  background-color: rgb(114,137,218);
+}
 p.bot-description{
   color: white;
   font-family:  -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
@@ -42,7 +45,7 @@ p.descrip{
 
 }
 header .light-text {
-  padding: 20px;
+  padding: 10px;
 }
 h2{
   color: rgb(114,137,218);
