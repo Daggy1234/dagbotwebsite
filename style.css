@@ -12,6 +12,11 @@ span.bot-name{
   font-family: Helvetica;
 
 }
+h1.titlehead{
+  color: white;
+  font-family: sans-serif;
+  font-size: 40px;
+}
 h5.sechead{
   color: rgb(114,137,218);
   font-style: italic;
