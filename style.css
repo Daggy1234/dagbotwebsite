@@ -18,16 +18,16 @@ h5.sechead{
   font-family: Helvetica;
 }
 div.longdescription{
-  background-color: rgb(114,137,218);
-  background: rgb(114,137,218);
+  background-color: rgb(44,47,51);
+  background: rgb(44,47,51);
 }
 div.content{
-  background-color: rgb(114,137,218);
-  background: rgb(114,137,218);
+  background-color:rgb(44,47,51);
+  background: rgb(44,47,51);
 }
 div.longdescription .content{
-  background-color: rgb(114,137,218);
-  background: rgb(114,137,218);
+  background-color: rgb(44,47,51);
+  background: rgb(44,47,51);
 }
 p.bot-description{
   color: white;
