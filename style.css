@@ -17,6 +17,9 @@ h1.titlehead{
   font-family: sans-serif;
   font-size: 40px;
 }
+strong{
+  color: white;
+}
 h5.sechead{
   color: rgb(114,137,218);
   font-style: italic;
