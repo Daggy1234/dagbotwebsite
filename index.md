@@ -17,7 +17,7 @@
         <li><small class="light-text">Commands</small></li>
         <li><small class="light-text">Donate</small></li>
         <li><small class="light-text"><a href="https://discord.gg/5Y2ryNq">Server</a></small></li>
-        <li><small class="light-text"><a href="https://discordapp.com/api/oauth2/authorize?client_id=675589737372975124&permissions=1611000896&scope=bot">Invite</a></small></li>
+        <li><small class="light-text"><a href="https://discord.com/oauth2/authorize?client_id=675589737372975124&permissions=378944&scope=bot">Invite</a></small></li>
       </ul>
     </nav>
     </header>
