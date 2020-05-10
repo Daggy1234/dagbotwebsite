@@ -4,7 +4,7 @@ h1{
   font-size: 40px;}
 body{
   background: rgb(44,47,51);}
-span.votebuttonbtn.btn-orange.btn-2x{
+span.votebutton.btn.btn-orange.btn-2x{
   background-color: rgb(114,137,218);
   font-family: Helvetica;}
 span.bot-name{
@@ -25,6 +25,18 @@ a.atag{
   color: white;
 }
 a#websitelink.botpagebutton{
+  background-color: #7289DA;
+  color: white;
+}
+a#edit.botpagebutton{
+  background-color: #7289DA;
+  color: white;
+}
+a#support.botpagebutton{
+  background-color: #7289DA;
+  color: white;
+}
+a#delete.botpagebutton{
   background-color: #7289DA;
   color: white;
 }
