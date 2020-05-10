@@ -12,6 +12,10 @@ span.bot-name{
   font-family: Helvetica;
 
 }
+a.btn.btn-dark{
+  background-color: #7289DA;
+  color: white;
+}
 h1.titlehead{
   color: white;
   font-family: sans-serif;
